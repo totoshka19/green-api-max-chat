@@ -4,6 +4,8 @@
 
 [Открыть приложение](https://totoshka19.github.io/green-api-max-chat/)
 
+[Скриншоты интерфейса](docs/screenshots/)
+
 ## Локальный запуск
 
 Нужны Node.js 24 и npm.
